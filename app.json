@@ -14,23 +14,23 @@
             "required": true
         },  
         "MUST_JOIN": {
-            "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "description": " WarriorunitsBots",
             "required": true      
         }, 
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "mongodb+srv://mayank:mayank123@cluster0.j6hopiq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "API_ID": {
-            "description": "telegram api id here",
+            "description": "23159366",
             "required": true
         },
         "OWNER_ID": {
-            "description": "Telegram id of the person who will known as owner of the bot.",
+            "description": "5222155765",
             "required": true
         }, 
         "API_HASH": {
-            "description": "telegram api hash here",
+            "description": "4623dd30dd1303bddb729eb0862262d9",
             "required": true
         }
     },
